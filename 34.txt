@@ -1,0 +1,109 @@
+ 3.4.1 The institution has a stated Code of Ethics to check malpractices and plagiarism in Research 
+
+Provide upload the URL having code of ethics 
+
+Whether Colleges have been provided access to plagiarism detecting software (Yes/No) 
+
+Mechanism for detecting plagiarism  
+
+3.4.2 The institution provides incentives to teachers who receive state, national and international recognition/awards 
+
+Name of the Awardee with contact details 
+
+Name of the Award 
+
+Name of the Awarding Agency 
+
+Year of Award 
+
+Incentive details 
+
+3.4.3 Number of  Patents published/awarded during the last five years  
+
+Name of the Patent published/awarded 
+
+Patent Number 
+
+Year of Award 
+
+3.4.4 Number  of Ph.D.s awarded per teacher during the last five years  
+
+Name of the PhD scholar 
+
+Name of the Department 
+
+Name of the guide/s 
+
+Title of the thesis 
+
+Year of registration of the scholar 
+
+Year of award of PhD 
+
+3.4.5 Number of research papers per teacher in the Journals notified on UGC website during the last five years  
+
+Title of paper 
+
+Name of the author/s 
+
+Department of the teacher 
+
+Name of journal 
+
+Year of publication 
+
+ISBN/ISSN number 
+
+3.4.6 Number of books and chapters in edited volumes / books published, and papers in national/international conference-proceedings per teacher during the last five years
+
+Name of the teacher 
+
+Title of the book/chapters  published 
+
+Title of the paper 
+
+Title of the proceedings of the conference 
+
+Name of the conference 
+
+National / international 
+
+Year of publication 
+
+ISBN/ISSN number of the proceeding 
+
+Affiliating Institute at the time of publication  
+
+Name of the publisher 
+
+3.4.7 BiblioMetrics of the publications during the last five years based on average  citation index in Scopus/ Web of Science or PubMed/ Indian Citation Index  
+
+Title of the paper 
+
+Name of the author 
+
+Title of the journal 
+
+Year of publication 
+
+Citation Index 
+
+Institutional affiliation as mentioned in the publication   
+
+ Number of citations excluding self citations  
+
+3.4.8 BiblioMetricss of the publications during the last five years based on Scopus/ Web of  Science – h-index of the University  
+
+Title of the paper 
+
+Name of the author 
+
+Title of the journal 
+
+Year of publication 
+
+h-index 
+
+Number of citations excluding self citations  
+
+Institutional affiliation as mentioned in the publication  
